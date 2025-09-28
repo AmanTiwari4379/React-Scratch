@@ -1,6 +1,6 @@
 import { Button } from "react-bootstrap"
 import { Alert } from "react-bootstrap";
-function App(){
+function App(){ 
     return(
         <>
           <h1>Add Bootstrap in React js</h1>
