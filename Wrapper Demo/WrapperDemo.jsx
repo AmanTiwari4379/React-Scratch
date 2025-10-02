@@ -1,5 +1,5 @@
-import Wrapper from "../Wrapper"
-import Wrapper2 from "../Wrapper2"
+import Wrapper from "./Wrapper"
+import Wrapper2 from "./Wrapper2"
 function WrapperDemo(){
     return(
         <div>

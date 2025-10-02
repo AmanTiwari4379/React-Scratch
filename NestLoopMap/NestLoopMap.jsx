@@ -1,4 +1,4 @@
-import College from "../NestLoopMap/College";
+import College from "./College";
 
 
 function NestLoopMap() {

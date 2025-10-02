@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Clock from "../Clock";
+import Clock from "./Clock";
 
 
 function ClockDemo(){
