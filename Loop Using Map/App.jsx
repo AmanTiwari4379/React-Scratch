@@ -1,4 +1,4 @@
-function LoopMap(){
+function App(){
     const userData = [
     {
         name: "Aman",
@@ -42,4 +42,4 @@ function LoopMap(){
         </div>
     )
 }
-export default LoopMap;
+export default App;
