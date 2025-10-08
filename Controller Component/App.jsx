@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-function ControllerComponent(){
+function App(){
     const [name, setName] = useState('');
     const [password, setPassword] = useState('');
     const [email, setEmail] = useState('');
@@ -24,4 +24,4 @@ function ControllerComponent(){
         </div>
     )
 }
-export default ControllerComponent;
+export default App;
