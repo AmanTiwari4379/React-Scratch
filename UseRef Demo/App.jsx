@@ -1,6 +1,6 @@
 import React from 'react'
 
-function UseRefDemo() {
+function App() {
     const inputRef = useRef(null);
     const inputHandler = ()=>{
         console.log(inputRef);
@@ -23,4 +23,4 @@ function UseRefDemo() {
   )
 }
 
-export default UseRefDemo
+export default App
