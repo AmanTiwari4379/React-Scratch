@@ -1,5 +1,5 @@
 import { useState } from "react";
-function HandleCheckbox(){
+function App(){
     const [skills, setSkills] = useState([]);
     const handleSkills = (event)=>{ 
         console.log(event.target.value, event.target.checked);
@@ -31,4 +31,4 @@ function HandleCheckbox(){
         </div>
     )
 }
-export default HandleCheckbox;
+export default App;
