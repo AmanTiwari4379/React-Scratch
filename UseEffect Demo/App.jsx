@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-function UseEffDemo() {
+function App() {
   const [counter, setCounter] = useState(0);
   const [counter2, setCounter2] = useState(0);
   const [counter3, setCounter3] = useState(0);
@@ -30,4 +30,4 @@ function UseEffDemo() {
     </div>
   );
 }
-export default UseEffDemo;
+export default App;
