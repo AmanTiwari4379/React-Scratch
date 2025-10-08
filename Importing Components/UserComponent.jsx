@@ -11,7 +11,7 @@ export function Profile(){
         <div>
             <h1>Profile</h1>
         </div>
-    )
+    ) 
 }
 
 export const UserId = 'A1';
