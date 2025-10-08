@@ -1,5 +1,5 @@
 import { useState } from "react";
-function HandleRatioDropdown(){
+function App(){
    const [gender, setGender] = useState();
     return(
         <div>
@@ -19,4 +19,4 @@ function HandleRatioDropdown(){
         </div>
     )
 }
-export default HandleRatioDropdown;
+export default App;
