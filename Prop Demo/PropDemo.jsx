@@ -1,7 +1,7 @@
 import Prop from "../Prop";
 import Prop2 from "../Prop2";
 
-function PropDemo(){
+function App(){
     let userData = {
         name: "Aman Tiwari",
         age: "23",
@@ -16,4 +16,4 @@ function PropDemo(){
         </div>
     )
 }
-export default PropDemo;
+export default App;
